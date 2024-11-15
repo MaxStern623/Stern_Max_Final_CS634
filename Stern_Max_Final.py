@@ -23,7 +23,7 @@ from ucimlrepo import fetch_ucirepo
 try:
     breast_cancer_wisconsin_diagnostic = fetch_ucirepo(id=17)
 except:
-    print("\n**********************************************************\nfailed to connect to database server.\nmake sure you are connected to the internet\nif you are and you still see this message, run it again\n**********************************************************\n")
+    print("\n**********************************************************\nfailed to connect to database server.\nmake sure you are connected to the internet.\nif you are and you still see this message, run it again\n**********************************************************\n")
     exit()
   
 # data (as pandas dataframes) 
