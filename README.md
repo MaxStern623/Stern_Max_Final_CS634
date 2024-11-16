@@ -1,6 +1,6 @@
 # Stern_Max_Final_CS634
 <h3><strong>***IMPORTANT***</strong></h3>
-<strong>The database is loaded into the program automatically so there is no dataset inside of the repository. make sure you are connected to the internet. if you are and you still get the error then run it until the error dissaprears</strong>
+<strong>The database is loaded into the program automatically so there is no dataset inside of the repository. make sure you are connected to the internet. if you are and you still get the error, then run it until the error dissaprears</strong>
 
 inside this repository you should fine 2 things
 <ol>
